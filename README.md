@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-        <meta name="description" content="the homepage to my Rainydays website" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Rainydays | Home</title>
-    </head>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=dvice-width, initial-scale=1.0" />
+    <meta name="description" content="Get real Authentic, hand-crafted guitars from Guitar Kings" />
+    <title>Guitar Kings | Home</title>
+</head>
     <body>
         <header>
             <nav>
