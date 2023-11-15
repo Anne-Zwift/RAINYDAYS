@@ -8,7 +8,6 @@
     </head>
     <body>
         <header>
-            <a href="index.html">Home Rainydays</a>
             <nav>
                 <img src="#" alt="logo"Pushing the comfort Zone />
                 <ul>
