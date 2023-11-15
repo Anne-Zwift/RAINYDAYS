@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Rainydays website|Home</title>
         <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
         <meta name="description" content="the homepage to my Rainydays website" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Rainydays website|Home</title>
     </head>
     <body>
         <header>
+            <a href="index.html">Home Rainydays</a>
             <nav>
-                <a href="index.html">Home Rainydays</a>
                 <img src="#" alt="logo"Pushing the comfort Zone />
                 <ul>
                     <li><a href="Women's.html">Women's</a></li>
