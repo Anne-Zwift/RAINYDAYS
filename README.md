@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Rainydays website|Home</title>
+        <!--<title>Rainydays website|Home</title>-->
         <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
         <meta name="description" content="the homepage to my Rainydays website" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
