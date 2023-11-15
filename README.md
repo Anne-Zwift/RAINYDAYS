@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=dvice-width, initial-scale=1.0" />
-    <meta name="description" content="Get real Authentic, hand-crafted guitars from Guitar Kings" />
-    <title>Guitar Kings | Home</title>
-</head>
+    <head>
+        <title>Rainydays website|Home</title>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+        <meta name="description" content="the homepage to my Rainydays website" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+    </head>
     <body>
         <header>
             <nav>
+                <a href="index.html">Home Rainydays</a>
                 <img src="#" alt="logo"Pushing the comfort Zone />
                 <ul>
                     <li><a href="Women's.html">Women's</a></li>
